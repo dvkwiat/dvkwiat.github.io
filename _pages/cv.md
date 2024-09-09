@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, University of Virginia, 2025 (expected)
+* M.S. in Economics, University of Virginia, 2020
+* B.S. in Economics, University of Virginia, 2019
 
-Work experience
+Papers
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* JMP here
+* Working paper with Charlie and Sean
+* Sasha paper
+* Grossman and Stiglitz experimental paper
+* Voting game stuff
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Teaching
+======
+* Summer 2023 - Spring 2024: Instructor
+  * Taught ECON 2010 (Introduction to microeconomics) and ECON 3010 (Intermediate microeconomics)
+  * Created curriculum, problem sets, quizzes, and tests
+  * Taught unofficial core prep sessions to help prepare first-year graduate students for the qualifying exam in microeconomics
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020 - Spring 2023: Teaching Assistant and Grader
+  * TAed for ECON 2010, ECON 3720 (Introduction to econometrics), and ECON 5090 (Mathematics for economists)
+  * Graded for ECON 3110 (Mathematical microeconomics), ECON 4010 (Game theory), and ECON 4170 (Risk and uncertainty)
+  * Contact: Marc Santugini, ms3ae@virginiaedu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* MATLAB
+* STATA
+* zTree
 
 Publications
 ======
