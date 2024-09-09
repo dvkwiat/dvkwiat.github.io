@@ -9,7 +9,7 @@ redirect_from:
 
 This is a blurb about me. Why do I enjoy economics? Where am I from? What are my fields of interest? Why do I enjoy teaching economics? 
 
-This is a link to my [CV](https://dvkwiat.github.io/cv.md), as a separate page on the same site. Hopefully that page will also give you the opportunity to download my CV as a pdf.
+This is a link to my [CV](https://dvkwiat.github.io/cv), as a separate page on the same site. Hopefully that page will also give you the opportunity to download my CV as a pdf.
 
 There should be another link here, to a pdf of my job market paper. This paragraph should also include a heading ("Job market paper") and a brief abstract.
 
