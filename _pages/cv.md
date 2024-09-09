@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[downloadable version](files/paper1.pdf)
+[downloadable version](../files/paper1.pdf)
 
 Education
 ======
