@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[//]: # [downloadable version]()
+[downloadable version]("http://academicpages.github.io/files/paper1.pdf")
 
 Education
 ======
