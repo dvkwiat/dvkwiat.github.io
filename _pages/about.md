@@ -11,11 +11,11 @@ This is a blurb about me. Why do I enjoy economics? Where am I from? What are my
 
 This is a link to my [CV](https://dvkwiat.github.io/cv), as a separate page on the same site. Hopefully that page will also give you the opportunity to download my CV as a pdf.
 
-There should be another link here, to a pdf of my job market paper. This paragraph should also include a heading ("Job market paper") and a brief abstract.
+There should be another link here, to a pdf of my [job market paper](../files/paper2.pdf). This paragraph should also include a heading ("Job market paper") and a brief abstract.
 
 Research
 ======
-This should include titles and brief blurbs about (1) my job market paper, (2) the working paper with Charlie and Sean, (3) my paper in progress with Sasha, (4) my work on voting games, (5) my work on Grossman and Stiglitz (1980) in the lab. There should be links to my job market paper and the paper with Charlie and Sean. And as many others as I can get to a presentable status.
+This should include titles and brief blurbs about (1) my job market paper, (2) the [working paper with Charlie and Sean](../files/paper3.pdf), (3) my paper in progress with Sasha, (4) my work on voting games, (5) my work on Grossman and Stiglitz (1980) in the lab. There should be links to my job market paper and the paper with Charlie and Sean. And as many others as I can get to a presentable status.
 
 Teaching
 ======
