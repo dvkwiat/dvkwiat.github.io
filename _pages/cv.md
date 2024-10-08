@@ -17,10 +17,13 @@ Education
 * M.A. in Economics, University of Virginia, 2020
 * B.A. in Economics, University of Virginia, 2019
 
-Papers
+Working Papers
 ======
-* JMP here
-* Working paper with Charlie and Sean
+* Competition and Price Informativeness: An Experiment
+* The Directional Difference Test (joint with Charlie Holt and Sean Sullivan
+
+In Progress
+======
 * Sasha paper
 * Grossman and Stiglitz experimental paper
 * Voting game stuff
