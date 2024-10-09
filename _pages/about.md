@@ -9,19 +9,28 @@ redirect_from:
 
 I am a behavioral economist, using theory and lab experiments to explore information transmission topics such as price-quality inference. I enjoy teaching and searching for the perfect graph to communicate complex data. Outside of academia, I love spending time in nature with my wife and 3-year-old in Charlottesville, Virginia.
 
-[CV](../files/cv.pdf) &nbsp;&nbsp;&nbsp;&nbsp; [job market paper](../files/jmp.pdf)
+[CV](../files/cv.pdf) &nbsp;&nbsp;&nbsp;&nbsp; [JMP](../files/jmp.pdf)
 
-Research
+Working Papers
 ======
-This should include titles and brief blurbs about (1) my job market paper, (2) the [working paper with Charlie and Sean](../files/paper3.pdf), (3) my paper in progress with Sasha, (4) my work on voting games, (5) my work on Grossman and Stiglitz (1980) in the lab. There should be links to my job market paper and the paper with Charlie and Sean. And as many others as I can get to a presentable status.
+* ["Competition and Price Informativeness: An Experiment"](../files/jmp.pdf)
+  Consumers often rely on price as a guide to the quality of a product. If consumers are unable to observe quality directly, price might not perfectly communicate product quality. In this context, competition might increase or decrease the informativeness of prices. I study how competition impacts the informativeness of prices theoretically and in a lab experiment. While theory leaves the question open, I find in the experiment that competition leads both high- and low-quality firms to decrease prices, but the price reduction is larger for high-quality firms who are more likely to price high in the absence of competition. Thus, prices become a less reliable guide to quality when there are more sellers in the market.
+* ["The Directional Difference Test"](../files/ddt.pdf) (joint with Charlie Holt and Sean Sullivan)
+  When analyzing data from experiments involving more than two treatments that can be ranked in terms predicted effect, it is natural to turn to statistical tests with directional alternative hypotheses. This paper uses Monte Carlo simulations to evaluate the power characteristics of the Directional Difference test, which has a test statistic defined as the sum of treatment differences for all pairs of sample observations in different treatments. When sample data are distributed according to familiar distributions like the normal, uniform, and logistic distributions, we find that the Directional Difference test is better able to detect treatment effects than the commonly used Jonckheere-Terpstra test. The Jonckheere-Terpstra test still performs best for heavy-tailed distributions. Experimenters wishing to exploit the informational content of multiple-treatment samples should consider replacing the Jonckheere-Terpstra test with the Directional Difference test in appropriate circumstances.
+
+In Progress
+======
+* "The Value of Medicaid Expansion: Evidence from the Oregon Health Insurance Experiment" (joint with Sasha Ruby)
+* Can Price Inform Quality when Verification is Costly? The Grossman-Stiglitz Paradox in the Lab
+* Cursedness in Simultaneous and Sequential Voting Games
 
 Teaching
 ======
-This section gives my teaching experience. I should mention teaching 2010 and 3010, as well as maybe core prep, and TAing 5090 and others all as a big list. I'll mention Marc as a point of contact.
-
-Skills
-======
-Maybe I'll mention my coding here? But it might be unnecessary. Python, Matlab, STATA. zTree as well, although I guess that goes without saying for an experimentalist.
-
-
-On a different note, how can I squeeze in a picture of me hiking somewhere?
+* Summer 2023 - Spring 2024: Instructor
+  * Taught ECON 2010 (Introduction to microeconomics) and ECON 3010 (Intermediate microeconomics)
+  * Created curriculum, problem sets, quizzes, and tests
+  * Taught unofficial core prep sessions to help prepare first-year graduate students for the qualifying exam in microeconomics
+* Fall 2020 - Spring 2023: Teaching Assistant and Grader
+  * Worked as a TA for ECON 2010, ECON 3720 (Introduction to econometrics), and ECON 5090 (Mathematics for economists)
+  * Graded for ECON 3110 (Mathematical microeconomics), ECON 4010 (Game theory), and ECON 4170 (Risk and uncertainty)
+  * Contact: Marc Santugini, ms3ae@virginia.edu
