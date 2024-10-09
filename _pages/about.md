@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is a blurb about me. Why do I enjoy economics? Where am I from? What are my fields of interest? Why do I enjoy teaching economics? 
+I am a behavioral economist, using theory and lab experiments to explore information transmission topics such as price-quality inference. I enjoy teaching and searching for the perfect graph to communicate complex data. Outside of academia, I love spending time in nature with my wife and 3-year-old in Charlottesville, Virginia.
 
-This is a link to my [CV](https://dvkwiat.github.io/cv), as a separate page on the same site. Hopefully that page will also give you the opportunity to download my CV as a pdf.
+[CV](../files/cv.pdf)
 
 There should be another link here, to a pdf of my [job market paper](../files/paper2.pdf). This paragraph should also include a heading ("Job market paper") and a brief abstract.
 
