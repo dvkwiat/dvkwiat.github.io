@@ -9,9 +9,7 @@ redirect_from:
 
 I am a behavioral economist, using theory and lab experiments to explore information transmission topics such as price-quality inference. I enjoy teaching and searching for the perfect graph to communicate complex data. Outside of academia, I love spending time in nature with my wife and 3-year-old in Charlottesville, Virginia.
 
-[CV](../files/cv.pdf)
-
-There should be another link here, to a pdf of my [job market paper](../files/paper2.pdf). This paragraph should also include a heading ("Job market paper") and a brief abstract.
+[CV](../files/cv.pdf)      [job market paper](../files/jmp.pdf)
 
 Research
 ======
