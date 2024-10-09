@@ -11,35 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, University of Virginia, 2025 (expected)
+* M.A. in Economics, University of Virginia, 2020
+* B.A. in Economics, University of Virginia, 2019
 
-Work experience
+Working Papers
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ``Competition and Price Informativeness: An Experiment''
+* ``The Directional Difference Test'' (joint with Charlie Holt and Sean Sullivan)
   
-Skills
+In Progress
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ``The Value of Medicaid Expansion: Evidence from the Oregon Health Insurance Experiment'' (joint with Sasha Ruby)
+* ``Can Price Inform Quality when Verification is Costly? The Grossman-Stiglitz Paradox in the Lab''
+* ``Cursedness in Simultaneous and Sequential Voting Games''
+
+Teaching Experience
+======
+* Summer 2023 - Spring 2024: Instructor
+  * Taught ECON 2010 (Introduction to microeconomics) and ECON 3010 (Intermediate microeconomics)
+  * Created curriculum, problem sets, quizzes, and tests
+  * Taught unofficial core prep sessions to help prepare first-year graduate students for the qualifying exam in microeconomics
+* Fall 2020 - Spring 2023: Teaching Assistant and Grader
+  * Worked as a TA for ECON 2010, ECON 3720 (Introduction to econometrics), and ECON 5090 (Mathematics for economists)
+  * Graded for ECON 3110 (Mathematical microeconomics), ECON 4010 (Game theory), and ECON 4170 (Risk and uncertainty)
+  * Contact: Marc Santugini, ms3ae@virginia.edu
+ 
+Awards & Grants
+======
+* Bankard Fund for Political Economy Fellowship
+* Snavely Prize for Dissertation Proposal
+
+Conference Presentations
+======
+* Cursedness in Simultaneous and Sequential Voting Games, Economic Science Association, 2023
+* Can Price Inform Quality when Verification is Costly?, Economic Science Association, 2022
+
+References
+======
+* Charlie Holt, holt@virginia.edu
+* Simon Anderson, sa9w@virginia.edu
+* Maxim Engers, mpe2m@virginia.edu
+* Marc Santugini, ms3ae@virginia.edu
 
 Publications
 ======
