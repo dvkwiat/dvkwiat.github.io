@@ -27,8 +27,9 @@ In Progress
 
   Is voluntary enrollment an effective strategy to limit Medicaid participation? This paper provides new evidence, using data from the Oregon Health Insurance Experiment, where Medicaid expansion was implemented through random assignment. We compare the average recipient value for Medicaid and average recipient cost to the government under voluntary enrollment to the average recipient value for Medicaid and average recipient cost to the government under automatic enrollment. We find that the average recipient under automatic enrollment not only benefits more from Medicaid but also imposes lower costs on the government. This result stems from the fact that Medicaid recipients under voluntary enrollment, despite having lower incomes, have greater access to alternative forms of health insurance, which diminishes their relative value for Medicaid.
 
-* Can Price Inform Quality when Verification is Costly? The Grossman-Stiglitz Paradox in the Lab
-* Cursedness in Simultaneous and Sequential Voting Games
+* "Cursedness in Simultaneous and Sequential Voting Games" (Conference presentation at ESA 2023)
+
+* "Can Price Inform Quality when Verification is Costly? The Grossman-Stiglitz Paradox in the Lab" (Conference presentation at ESA 2022)
 
 Teaching
 ======
