@@ -31,3 +31,4 @@ In Progress
 
 * "Can Price Inform Quality when Verification is Costly? The Grossman-Stiglitz Paradox in the Lab" (Conference presentation at ESA 2022)
 
+
