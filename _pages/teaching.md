@@ -6,16 +6,6 @@ redirect_from:
   - /teaching.html
 ---
 
-
-* Summer 2023 - Spring 2024: Instructor
-  * Taught ECON 2010 (Introduction to microeconomics) and ECON 3010 (Intermediate microeconomics)
-  * Created curriculum, problem sets, quizzes, and tests
-  * Taught unofficial core prep sessions to help prepare first-year graduate students for the qualifying exam in microeconomics
-* Fall 2020 - Spring 2023: Teaching Assistant and Grader
-  * Worked as a TA for ECON 2010, ECON 3720 (Introduction to econometrics), and ECON 5090 (Mathematics for economists)
-  * Graded for ECON 3110 (Mathematical microeconomics), ECON 4010 (Game theory), and ECON 4170 (Risk and uncertainty)
-  * Contact: Marc Santugini, ms3ae@virginia.edu
-
 # Instructor Experience
 
 I was instructor for ECON 2010 (Introduction to Microeconomics) in Spring 2024, and an instructor for ECON 3010 (Intermediate Microeconomics) in Summer 2023. I also unofficially taught micro core-prep sessions to aid the first-year graduate students in preparing for the qualifying exam in microeconomics. Both ECON 2010 and ECON 3010 involved developing a curriculum, writing lecture notes, lecture quizzes, homeworks, practice problems, and tests, as well as lecturing, grading, holding office hours, and meeting one-on-one with students. More information and course materials are available upon request.
@@ -45,7 +35,7 @@ The table below summarizes course evaluations while I was an instructor. For eac
 
 # Teaching Assistant Experience
 
-I worked as a teaching assistant for ECON 2010 (Introduction to Microeconomics), ECON 3720 (Introduction to Econometrics), and ECON 5090 (Mathematics for Economists). This role involved teaching discussion sections, holding office hours, and grading.
+I worked as a teaching assistant for ECON 2010 (Introduction to Microeconomics), ECON 3720 (Introduction to Econometrics), and ECON 5090 (Mathematics for Economists). This role involved teaching discussion sections, holding office hours, and grading. Contact: Marc Santugini, ms3ae@virginia.edu
 
 - **ECON 3720**: Primarily focused on teaching students how to use STATA for OLS, predictions, tests, and instrumental variables. I held weekly discussions on STATA and met with students in office hours to go over questions and assignments.
 - **ECON 2010**: Taught discussion sections on production and trade, the supply and demand model with various government interventions, and producer cost curves.
