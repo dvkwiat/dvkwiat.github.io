@@ -33,4 +33,6 @@ In Progress
 
 * "Can Price Inform Quality when Verification is Costly? The Grossman-Stiglitz Paradox in the Lab" (Conference presentation at ESA 2022)
 
+  A product’s price will reflect its quality, if that quality is known to consumers. But many experiments have shown that consumers believe high prices signal high quality, even in situations where the quality is not easy to observe. I run a lab experiment where prices are chosen endogenously by sellers, and buyers may exert costly effort to become informed about quality. While theory leaves open how much information will be conveyed by equilibrium prices, I find in the lab that prices convey about as much information as theoretically possible. Consistent with the Grossman-Stiglitx paradox, subjects acquire information up until the return to information offsets its costs. Subjects also have behavioral deviations from Nash that follow quantal response intuition: subjects trust the market prices too much when it is costly to acquire information themselves, and trust the market prices too little when becoming informed is easy.
+
 
